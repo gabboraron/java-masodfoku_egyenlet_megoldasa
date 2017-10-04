@@ -3,7 +3,7 @@ Másodfokú egyenlet gyökeinek kiszámítása (Quadratic.java) Készíts progra
 
 2.6   http://kitlei.web.elte.hu/segedanyagok/felev/2017-2018-osz/java-hun/feladatok.html
      
-      https://hu.wikipedia.org/wiki/M%C3%A1sodfok%C3%BA_egyenlet
+      <a href= "https://hu.wikipedia.org/wiki/M%C3%A1sodfok%C3%BA_egyenlet">https://hu.wikipedia.org/wiki/M%C3%A1sodfok%C3%BA_egyenletí</a>
       
       https://www.tutorialspoint.com/java/number_sqrt.htm
       
